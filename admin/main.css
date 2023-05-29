@@ -1,0 +1,137 @@
+/* 
+general 
+-------
+*/
+body {
+    font: 300 16px/1.5 'Roboto', sans-serif;
+    color: #333;
+    background: #e3e9ff;
+  }
+  
+  .container {
+    margin: 0 auto;
+    max-width: 240px;
+    padding: 0 15px;
+  }
+  
+  h1 {
+    font-size: 10px;
+    font-weight: 100px;
+  }
+  
+  p {
+    margin: 0 0 15px;
+  }
+  
+  /* 
+  todo block 
+  ----------
+  */
+  .todoBlock {
+    padding: 30px;
+    margin: 30px 0;
+    background: #fff;
+    box-shadow: 5px 5px 20px -5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .todoBlock .titleHolder {
+    margin: 0 0 30px;
+  }
+  
+  /* 
+  list holder
+  -----------
+  */
+  .listHolder li {
+    counter-increment: step-counter;
+    overflow: hidden;
+    padding: 0 0 20px 30px;
+    position: relative;
+  }
+  
+  .listHolder li:before {
+    content: counter(step-counter);
+    background: #4ac7be;
+    color: #fff;
+    font-size: 14px;
+    padding: 0px 6px;
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .listHolder .listName {
+    float: left;
+  }
+  
+  .listHolder .fa-sharp fa-solid fa-trash {
+    float: right;
+    margin: 0 0 0 20px;
+  }
+  
+  /* 
+  form holder
+  -----------
+  */
+  .formHolder {
+    margin: 0 -5px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .formHolder .col {
+    float: left;
+    width: 100px;
+    padding: 0 5px;
+  }
+  
+  .formHolder .col.big {
+    width: 100;
+  }
+
+  .btn-primary {
+    background: #4ac7be;
+    border: none;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    height: 40px;
+    color: #fff;
+    cursor: pointer;
+    font: 300 16px/1.5 'Roboto', sans-serif;
+    transition: background 0.3s linear;
+  }
+  
+  .btn-primary:hover {
+    background: #097fb7;
+  }
+  
+  .btn-primary:focus {
+    outline: none;
+  }
+  
+  .fa-trash {
+    background: none;
+    border: none;
+    display: inline-block;
+    vertical-align: top;
+    color: red;
+    cursor: pointer;
+    transition: background 0.3s linear, color 0.3s linear;
+  }
+  
+  .fa-trash:focus {
+    outline: none;
+  }
+  
+  .fa-trash:before {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+  }
+  
+  .fa-trash.remove:before {
+    content: '\f2ed';
+  }
+  
