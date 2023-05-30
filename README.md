@@ -21,8 +21,19 @@ We welcome contributions from the open-source community to enhance the Restauran
 Thank you for choosing the Restaurant Management System. We hope it empowers your restaurant with improved efficiency, better customer service, and increased profitability. Enjoy using the system!
 
 Best regards,
-[petson]
+[petson]![1](https://github.com/petson15/RMS/assets/82520771/38cbfba6-8ff6-43d1-adc3-539227c943bd)
 
+![2](https://github.com/petson15/RMS/assets/82520771/5f2eb661-5af4-4c41-ae2b-e03f4b9d43d0)
+
+![3](https://github.com/petson15/RMS/assets/82520771/97bd99a3-f1ce-40ad-b06b-47d487fa7a41)
+
+![4](https://github.com/petson15/RMS/assets/82520771/68639c10-5584-474a-ac44-6f144fc32507)
+![6](https://github.com/petson15/RMS/assets/82520771/38329818-9e55-4629-ad3d-2387df4f70a5)
+
+![7](https://github.com/petson15/RMS/assets/82520771/4c49116e-514e-4c19-9d85-4cdd80033cd2)
+![8](https://github.com/petson15/RMS/assets/82520771/6aec2f72-1845-414d-b432-cae13332aa0f)
+![9](https://github.com/petson15/RMS/assets/82520771/7167701e-8cf0-4350-bef6-f26661712deb)
+![0](https://github.com/petson15/RMS/assets/82520771/92685210-f36d-4833-8114-44a5d22020a8)
 
 
 
